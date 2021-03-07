@@ -1,0 +1,20 @@
+{
+  "name": "node_clean_ts_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wimosh/node_clean_ts_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wimosh/node_clean_ts_api/issues"
+  },
+  "homepage": "https://github.com/wimosh/node_clean_ts_api#readme"
+}
